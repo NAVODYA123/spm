@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+}
+
+.navbar{
+    height: 150px;
+    width: 100%;
+    color: midnightblue;
+}
